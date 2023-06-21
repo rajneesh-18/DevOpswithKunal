@@ -60,3 +60,11 @@ object:
   age: 18
   city: Lucknow
 
+Multiline Strings in YAML
+
+-YAML allows multiline strings.You can use a pipe character (|) to denote a literal block scalar, 
+preserving line breaks, or a greater-than symbol (>) to fold the multiline string into a single line.
+
+Example
+about me: |
+  I'm Rajneesh Maurya.
