@@ -22,8 +22,6 @@
 
  -YAML supports lists and arrays using a hyphen followed by a space ("- ").
  -Lists and arrays in YAML provide a way to represent and organize ordered collections of data.
--They can be used for various purposes such as representing a list of items, a series of steps, 
- or a collection of objects with similar properties.
 
 # Here, an example you can understand.How this lists are to be used
  fruits:
