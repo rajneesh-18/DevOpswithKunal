@@ -68,3 +68,15 @@ preserving line breaks, or a greater-than symbol (>) to fold the multiline strin
 Example
 about me: |
   I'm Rajneesh Maurya.
+
+Nested Structures in YAML
+
+-YAML supports nesting of data structures by using indentation. You can nest key-value pairs or create nested lists.
+
+Example
+person:
+  name: Rajneesh Maurya
+  age: 18
+  like to do:
+    - learning new things
+    - sharing valuable thoughts
