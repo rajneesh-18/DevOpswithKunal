@@ -37,14 +37,3 @@ Members of Community:
   - name: Francesco Ciulla
     company : daily.dev
     position: DevAdv
-# Here, one more example but it is complicatedt then the previous one
-# Rough Example
- MembersofCommunity:
-  - name: Kunal Kushwaha
-    company : CIVO Navigate
-    position: DevRel Manager
-  - name: Francesco Ciulla
-    company : daily.dev
-    position: DevAdv
-
-
