@@ -24,18 +24,27 @@
  -Lists and arrays in YAML provide a way to represent and organize ordered collections of data.
 
 # Here, an example you can understand.How this lists are to be used
- fruits:
-  - mango
-  - dragonfruit
-  - kiwi
-# Here, one more example but it is complicatedt then the previous one
+ color of fruits:
+  yellow color : mango
+  pink color : dragonfruit
+  light green : kiwi
+# Here, one more example but it is complicated then the previous one
 # Rough Example 
-MembersofCommunity:
+Members of Community:
   - name: Kunal Kushwaha
-    twiitter: @kunalstwt
+    company : CIVO Navigate
     position: DevRel Manager
   - name: Francesco Ciulla
-    twitter: @francescociull4
+    company : daily.dev
+    position: DevAdv
+# Here, one more example but it is complicatedt then the previous one
+# Rough Example
+ MembersofCommunity:
+  - name: Kunal Kushwaha
+    company : CIVO Navigate
+    position: DevRel Manager
+  - name: Francesco Ciulla
+    company : daily.dev
     position: DevAdv
 
 
