@@ -37,3 +37,26 @@ Members of Community:
   - name: Francesco Ciulla
     company : daily.dev
     position: DevAdv
+
+Data Types in YAML
+
+-YAML supports various data types, including strings, numbers, booleans, arrays, and objects. It also supports null values.
+- Strings can be enclosed in single or double quotes, but it's not necessary unless the string contains special characters. 
+
+Example
+string: Hi, Folks!
+integer: 18
+float: 4.356
+boolean: true
+null_value: null
+date: 2023-06-21
+time: 12:00:00
+list:
+  - shoes
+  - belt
+  - tie
+object:
+  name: Rajneesh Maurya
+  age: 18
+  city: Lucknow
+
