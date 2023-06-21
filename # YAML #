@@ -1,0 +1,43 @@
+ What is Full Form YAML?
+
+ -YAML Ain't Markup Language
+
+ What is YAML?
+
+ -YAML is a human-readable data serialization format commonly used for configuration files.
+
+ What are Key-Value Pairs?
+
+ - YAML uses a key-value pair format, where the key and value are separated by a colon. 
+
+ Here you can see the example
+
+ # you should have to see how the key which like name, age ,city & occupation their value are here you can see
+ name: Rajneesh Maurya
+ age: 18
+ city: Lucknow
+ occupation: Contributor
+
+ Lists/Arrays in YAML
+
+ -YAML supports lists and arrays using a hyphen followed by a space ("- ").
+ -Lists and arrays in YAML provide a way to represent and organize ordered collections of data.
+-They can be used for various purposes such as representing a list of items, a series of steps, 
+ or a collection of objects with similar properties.
+
+# Here, an example you can understand.How this lists are to be used
+ fruits:
+  - mango
+  - dragonfruit
+  - kiwi
+# Here, one more example but it is complicatedt then the previous one
+# Rough Example 
+MembersofCommunity:
+  - name: Kunal Kushwaha
+    twiitter: @kunalstwt
+    position: DevRel Manager
+  - name: Francesco Ciulla
+    twitter: @francescociull4
+    position: DevAdv
+
+
